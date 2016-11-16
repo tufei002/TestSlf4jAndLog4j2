@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/slf4j-log4j12-1.7.13.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log4j-api-2.5.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log4j-core-2.5.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log4j-slf4j-impl-2.5.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

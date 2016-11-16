@@ -27,7 +27,7 @@ public class Log4j2HttpServlet extends HttpServlet{
 	
 	private void process(HttpServletRequest req, HttpServletResponse resp){
 //		String s = "you are bicth!";
-		System.out.println("-----------------");
+		System.out.println("---------111111111111111111--------");
 		for(int i=0;i<10000;i++){
 			productLog.error("i: {}", new Object[]{i});
 			if(i%100 == 1){
